@@ -1,2 +1,2 @@
 # hello-world
-My name is Nkhubalale Emmnauel Nkadimeng, I am a 25 year old guy who has passion in tech. I love solving mathemathical problems and coding problems. I hope to learn more from umuzi and use the knowledge acquired to solve some of the real life issues. I hope to have a great time with the institution. Lets all gro, #y=mc^2^
+My name is Nkhubalale Emmnauel Nkadimeng, and I'm driven by a profound passion for technology. I thrive on unraveling complex mathematical and coding challenges, eager to expand my skills and knowledge. With the expertise gained, I aim to tackle real-world problems creatively. Excited for an enriching journey ahead, let's embark on this growth together! #y=mc^2^
